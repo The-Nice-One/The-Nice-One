@@ -1,5 +1,5 @@
 
-# ![bannersAboutMe](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/banners/aboutMe.png)
+# ![bannerAboutMe](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/banners/aboutMe.png)
 
 I'm an aspiring young developer looking to spread the joy of pixel art to the entire world! 
  - Born in the United States, I am a native English speaker with Spanish as my second language.
