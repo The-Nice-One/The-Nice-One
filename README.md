@@ -14,6 +14,6 @@ As a programmer I enjoy low-level systems programming and backend development. H
  - Created several SPAs (Single Page Applications) and frontend development projects ( ![emojiHTML](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/emojis/html5.png) HTML, ![emojiCSS](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/emojis/css3.png) CSS, & ![emojiJavaScript](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/emojis/javascript.png) JS )
  - Fiddled around making minimal desktop applications with frameworks such as GTK, EGUI, and Tkinter ( ![emojiRust](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/emojis/rust.png) Rust, ![emojiJulia](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/emojis/julia.png) Julia, & ![emojiPython](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/emojis/python.png) Python )
 
-![bannerUpcoming](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/banners/upcoming.png)
+# ![bannerUpcoming](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/banners/upcoming.png)
 
 I am currently working on my first main project .spf (SimplePixelFont) files. These files store pixelated fonts that are small in byte size yet still provide a lot of flexibility. You can check out a working example of these files at [https://the-nice-one.github.io/web-spf/](https://the-nice-one.github.io/web-spf/).
