@@ -16,4 +16,4 @@ As a programmer I enjoy low-level systems programming and backend development. H
 
 # ![bannerUpcoming](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/banners/upcoming.png)
 
-I am currently working on my first main project .spf (SimplePixelFont) files. These files store pixelated fonts that are small in byte size yet still provide a lot of flexibility. You can check out a working example of these files at [https://the-nice-one.github.io/web-spf/](https://the-nice-one.github.io/web-spf/).
+I am currently working on my first main project .spf (SimplePixelFont) files. These files store pixelated fonts that are small in byte size yet still provide a lot of flexibility. You can check out a working example of these files at [https://simplepixelfont.github.io/web-spf/](https://simplepixelfont.github.io/web-spf/).
