@@ -16,4 +16,6 @@ As a programmer I enjoy low-level systems programming and backend development. H
 
 # ![bannerUpcoming](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/banners/upcoming.png)
 
-I am currently working on my first main project .spf (SimplePixelFont) files. These files store pixelated fonts that are small in byte size yet still provide a lot of flexibility. You can check out a working example of these files at [https://simplepixelfont.github.io/web-spf/](https://simplepixelfont.github.io/web-spf/).
+I am currently working two main projects! 
+ - Firstly, .spf (SimplePixelFont) files, which store pixelated fonts that are small in byte size yet provide a lot of flexibility. You can check out a working example of these files at [https://simplepixelfont.github.io/web-spf/](https://simplepixelfont.github.io/web-spf/).
+ - Secondly, a pixel art editor over at [FunGuy Labs](https://www.youtube.com/@funguylabs), with the goal of creating a fully flexible and configurable editor for pixel art drawings and animations.
