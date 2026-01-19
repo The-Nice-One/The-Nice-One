@@ -1,13 +1,13 @@
 
 # ![bannerAboutMe](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/banners/aboutMe.png)
 
-I'm an aspiring young developer looking to spread the joy of pixel art to the entire world! 
- - Born in the United States, I am a native English speaker with Spanish as my second language.
+Hello! My name is Alexis, and I'm an aspiring young developer looking to spread the joy of pixel art to the entire world. 
+ - Born in the United States, I'm a native English speaker with Spanish as my second language.
  - I began my programming journey almost 6 years ago with some prior block-coding knowledge from Scratch.
 
 # ![bannerExperience](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/banners/experience.png)
 
-As a programmer I enjoy low-level systems programming and backend development. However, I have also done some frontend projects.
+As a programmer, I enjoy low-level systems programming and backend development. However, I have also done some frontend projects.
  - I know low-level graphics programming with openGL and SDL2, aswell as window management with GLFW. ( ![emojiRust](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/emojis/rust.png) Rust & ![emojiJulia](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/emojis/julia.png) Julia ) 
  - I've created multiple Discord bots and applications ( ![emojiRust](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/emojis/rust.png) Rust, ![emojiPython](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/emojis/python.png) Python, ![emojiLua](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/emojis/lua.png) Lua, & ![emojiJava](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/emojis/java.png) Java )
  - Developed small games using the Godot game engine, Picotron fantasy workstation, and various other engines such as Macroquad. ( ![emojiRust](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/emojis/rust.png) Rust, ![emojiLua](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/emojis/lua.png) Lua & ![emojiGDScript](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/emojis/godot.png) GDScript )
@@ -16,6 +16,6 @@ As a programmer I enjoy low-level systems programming and backend development. H
 
 # ![bannerUpcoming](https://raw.githubusercontent.com/The-Nice-One/GalleryArt/refs/heads/main/banners/upcoming.png)
 
-I am currently working two main projects! 
+I'm currently working on two main projects! 
  - Firstly, .spf (SimplePixelFont) files, which store pixelated fonts that are small in byte size yet provide a lot of flexibility. You can check out a working example of these files at [https://simplepixelfont.github.io/web-spf/](https://simplepixelfont.github.io/web-spf/).
  - Secondly, a pixel art editor over at [FunGuy Labs](https://www.youtube.com/@funguylabs), with the goal of creating a fully flexible and configurable editor for pixel art drawings and animations.
